@@ -3,7 +3,7 @@ Verification Code
 
 ## Installation
 ```shell
-pip install vcode
+pip install verification-code
 ```
 
 ## Usage
